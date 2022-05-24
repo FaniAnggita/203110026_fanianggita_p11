@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tambah Catatan</string>
+    <string name="tambahkan_catatan">Tambahkan Catatan</string>
+    <string name="isikan_nama_file_di_sini">Isikan nama file di sini!</string>
+    <string name="nama_file">Nama File</string>
+    <string name="save">save</string>
+    <string name="read">READ</string>
+    <string name="catatan">Catatan</string>
+    <string name="isikan_catatan_di_sini">Isikan catatan di sini!</string>
+</resources>
